@@ -1,184 +1,34 @@
---Pls Donate Im The Only Slave Here :(
+-- Hacked In!!
 
 local ScreenGui = Instance.new("ScreenGui")
 local MainFrame = Instance.new("Frame")
 local UICorner = Instance.new("UICorner")
-local Ms2 = Instance.new("TextButton")
+local MiningSimulator2 = Instance.new("TextButton")
 local UICorner_2 = Instance.new("UICorner")
 local BedWars = Instance.new("TextButton")
 local UICorner_3 = Instance.new("UICorner")
 local Universal = Instance.new("TextButton")
 local UICorner_4 = Instance.new("UICorner")
-local JailBreak = Instance.new("TextButton")
+local ClickerSimulatorSoon = Instance.new("TextButton")
 local UICorner_5 = Instance.new("UICorner")
-local PSX = Instance.new("TextButton")
+local PetSimulatorX = Instance.new("TextButton")
 local UICorner_6 = Instance.new("UICorner")
-local Soon = Instance.new("TextButton")
-local UICorner_7 = Instance.new("UICorner")
 local Close = Instance.new("TextButton")
-local UICorner_8 = Instance.new("UICorner")
+local UICorner_7 = Instance.new("UICorner")
 local Minimize = Instance.new("TextButton")
-local UICorner_9 = Instance.new("UICorner")
+local UICorner_8 = Instance.new("UICorner")
 local TextLabel = Instance.new("TextLabel")
+local UICorner_9 = Instance.new("UICorner")
+local DevV4Private = Instance.new("TextButton")
 local UICorner_10 = Instance.new("UICorner")
-local Start = Instance.new("Frame")
+local PowerSoftware = Instance.new("TextButton")
 local UICorner_11 = Instance.new("UICorner")
-local Opensh = Instance.new("TextButton")
-local UICorner_12 = Instance.new("UICorner")
 local Discord = Instance.new("TextButton")
-local UICorner_13 = Instance.new("UICorner")
-local TextLabel_2 = Instance.new("TextLabel")
-local UICorner_14 = Instance.new("UICorner")
-local TextLabel_3 = Instance.new("TextLabel")
-local UICorner_15 = Instance.new("UICorner")
-local UniversalFrame = Instance.new("Frame")
-local TextLabel_4 = Instance.new("TextLabel")
-local UICorner_16 = Instance.new("UICorner")
-local ScrollingFrame = Instance.new("ScrollingFrame")
-local ImageLabel = Instance.new("ImageLabel")
-local UICorner_17 = Instance.new("UICorner")
-local ExecuteSolaris = Instance.new("TextButton")
-local UICorner_18 = Instance.new("UICorner")
-local ImageLabel_2 = Instance.new("ImageLabel")
-local UICorner_19 = Instance.new("UICorner")
-local ExecuteDarkHub = Instance.new("TextButton")
-local UICorner_20 = Instance.new("UICorner")
-local ImageLabel_3 = Instance.new("ImageLabel")
-local UICorner_21 = Instance.new("UICorner")
-local ExecuteEvoV2 = Instance.new("TextButton")
-local UICorner_22 = Instance.new("UICorner")
-local ImageLabel_4 = Instance.new("ImageLabel")
-local UICorner_23 = Instance.new("UICorner")
-local ExecuteVestra = Instance.new("TextButton")
-local UICorner_24 = Instance.new("UICorner")
-local ImageLabel_5 = Instance.new("ImageLabel")
-local UICorner_25 = Instance.new("UICorner")
-local ExecuteVGHub = Instance.new("TextButton")
-local UICorner_26 = Instance.new("UICorner")
-local ImageLabel_6 = Instance.new("ImageLabel")
-local UICorner_27 = Instance.new("UICorner")
-local ExecuteStrawHooks = Instance.new("TextButton")
-local UICorner_28 = Instance.new("UICorner")
-local ImageLabel_7 = Instance.new("ImageLabel")
-local UICorner_29 = Instance.new("UICorner")
-local ImageLabel_8 = Instance.new("ImageLabel")
-local UICorner_30 = Instance.new("UICorner")
-local ExecuteBoltsHub = Instance.new("TextButton")
-local UICorner_31 = Instance.new("UICorner")
-local ExecuteZyrexHub = Instance.new("TextButton")
-local UICorner_32 = Instance.new("UICorner")
-local ImageLabel_9 = Instance.new("ImageLabel")
-local UICorner_33 = Instance.new("UICorner")
-local ExecuteKebabHub = Instance.new("TextButton")
-local UICorner_34 = Instance.new("UICorner")
-local ImageLabel_10 = Instance.new("ImageLabel")
-local UICorner_35 = Instance.new("UICorner")
-local ExecuteParvusHub = Instance.new("TextButton")
-local UICorner_36 = Instance.new("UICorner")
-local ImageLabel_11 = Instance.new("ImageLabel")
-local UICorner_37 = Instance.new("UICorner")
-local ImageLabel_12 = Instance.new("ImageLabel")
-local UICorner_38 = Instance.new("UICorner")
-local ImageLabel_13 = Instance.new("ImageLabel")
-local UICorner_39 = Instance.new("UICorner")
-local ImageLabel_14 = Instance.new("ImageLabel")
-local UICorner_40 = Instance.new("UICorner")
-local ImageLabel_15 = Instance.new("ImageLabel")
-local UICorner_41 = Instance.new("UICorner")
-local ImageLabel_16 = Instance.new("ImageLabel")
-local UICorner_42 = Instance.new("UICorner")
-local ExecuteOwlHub = Instance.new("TextButton")
-local UICorner_43 = Instance.new("UICorner")
-local ExecuteSorkyHub = Instance.new("TextButton")
-local UICorner_44 = Instance.new("UICorner")
-local ExecuteMonkeHub = Instance.new("TextButton")
-local UICorner_45 = Instance.new("UICorner")
-local ExecuteStefan = Instance.new("TextButton")
-local UICorner_46 = Instance.new("UICorner")
-local ExecuteStefan_2 = Instance.new("TextButton")
-local UICorner_47 = Instance.new("UICorner")
-local ExecuteZephyrX = Instance.new("TextButton")
-local UICorner_48 = Instance.new("UICorner")
-local ExecuteSirius = Instance.new("TextButton")
-local UICorner_49 = Instance.new("UICorner")
-local TextLabel_5 = Instance.new("TextLabel")
-local UICorner_50 = Instance.new("UICorner")
-local Close_2 = Instance.new("TextButton")
-local UICorner_51 = Instance.new("UICorner")
-local Minimize_2 = Instance.new("TextButton")
-local UICorner_52 = Instance.new("UICorner")
-local BedWarsFrame = Instance.new("Frame")
-local TextLabel_6 = Instance.new("TextLabel")
-local UICorner_53 = Instance.new("UICorner")
-local ScrollingFrame_2 = Instance.new("ScrollingFrame")
-local ImageLabel_17 = Instance.new("ImageLabel")
-local UICorner_54 = Instance.new("UICorner")
-local ExecuteVape = Instance.new("TextButton")
-local UICorner_55 = Instance.new("UICorner")
-local ImageLabel_18 = Instance.new("ImageLabel")
-local UICorner_56 = Instance.new("UICorner")
-local ExecuteEngoWare = Instance.new("TextButton")
-local UICorner_57 = Instance.new("UICorner")
-local ImageLabel_19 = Instance.new("ImageLabel")
-local UICorner_58 = Instance.new("UICorner")
-local ExecuteRekt = Instance.new("TextButton")
-local UICorner_59 = Instance.new("UICorner")
-local ImageLabel_20 = Instance.new("ImageLabel")
-local UICorner_60 = Instance.new("UICorner")
-local ExecuteNoboline = Instance.new("TextButton")
-local UICorner_61 = Instance.new("UICorner")
-local TextLabel_7 = Instance.new("TextLabel")
-local UICorner_62 = Instance.new("UICorner")
-local Close_3 = Instance.new("TextButton")
-local UICorner_63 = Instance.new("UICorner")
-local Minimize_3 = Instance.new("TextButton")
-local UICorner_64 = Instance.new("UICorner")
-local MS2Frame = Instance.new("Frame")
-local TextLabel_8 = Instance.new("TextLabel")
-local UICorner_65 = Instance.new("UICorner")
-local ScrollingFrame_3 = Instance.new("ScrollingFrame")
-local ImageLabel_21 = Instance.new("ImageLabel")
-local UICorner_66 = Instance.new("UICorner")
-local ExecuteZeerox = Instance.new("TextButton")
-local UICorner_67 = Instance.new("UICorner")
-local ImageLabel_22 = Instance.new("ImageLabel")
-local UICorner_68 = Instance.new("UICorner")
-local ExecuteExodus = Instance.new("TextButton")
-local UICorner_69 = Instance.new("UICorner")
-local ImageLabel_23 = Instance.new("ImageLabel")
-local UICorner_70 = Instance.new("UICorner")
-local ExecuteKelp = Instance.new("TextButton")
-local UICorner_71 = Instance.new("UICorner")
-local ImageLabel_24 = Instance.new("ImageLabel")
-local UICorner_72 = Instance.new("UICorner")
-local ExecuteVestra_2 = Instance.new("TextButton")
-local UICorner_73 = Instance.new("UICorner")
-local ImageLabel_25 = Instance.new("ImageLabel")
-local UICorner_74 = Instance.new("UICorner")
-local ExecuteSaza = Instance.new("TextButton")
-local UICorner_75 = Instance.new("UICorner")
-local ImageLabel_26 = Instance.new("ImageLabel")
-local UICorner_76 = Instance.new("UICorner")
-local ExecuteSoggyWare = Instance.new("TextButton")
-local UICorner_77 = Instance.new("UICorner")
-local ImageLabel_27 = Instance.new("ImageLabel")
-local UICorner_78 = Instance.new("UICorner")
-local ImageLabel_28 = Instance.new("ImageLabel")
-local UICorner_79 = Instance.new("UICorner")
-local ExecuteExtremeHub = Instance.new("TextButton")
-local UICorner_80 = Instance.new("UICorner")
-local ExecutePhantomHub = Instance.new("TextButton")
-local UICorner_81 = Instance.new("UICorner")
-local TextLabel_9 = Instance.new("TextLabel")
-local UICorner_82 = Instance.new("UICorner")
-local Close_4 = Instance.new("TextButton")
-local UICorner_83 = Instance.new("UICorner")
-local Minimize_4 = Instance.new("TextButton")
-local UICorner_84 = Instance.new("UICorner")
+local UICorner_12 = Instance.new("UICorner")
 local UITOGGLERFrame = Instance.new("Frame")
-local UICorner_85 = Instance.new("UICorner")
+local UICorner_13 = Instance.new("UICorner")
 local OpensTheFrame = Instance.new("TextButton")
-local UICorner_86 = Instance.new("UICorner")
+local UICorner_14 = Instance.new("UICorner")
 
 --Properties:
 
@@ -187,44 +37,44 @@ ScreenGui.Parent = game.CoreGui
 MainFrame.Name = "Main Frame"
 MainFrame.Parent = ScreenGui
 MainFrame.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
-MainFrame.Position = UDim2.new(0.408794791, 0, 0.240325585, 0)
-MainFrame.Size = UDim2.new(0, 312, 0, 372)
+MainFrame.Position = UDim2.new(0.283387691, 0, 0.212470442, 0)
+MainFrame.Size = UDim2.new(0, 528, 0, 303)
 MainFrame.Visible = false
 MainFrame.Active = true
 MainFrame.Draggable = true
 
 UICorner.Parent = MainFrame
 
-Ms2.Name = "Ms2"
-Ms2.Parent = MainFrame
-Ms2.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
-Ms2.Position = UDim2.new(0.0612092614, 0, 0.190860212, 0)
-Ms2.Size = UDim2.new(0, 273, 0, 37)
-Ms2.Font = Enum.Font.SourceSans
-Ms2.Text = "Mining SImulator 2"
-Ms2.TextColor3 = Color3.fromRGB(4, 91, 2)
-Ms2.TextSize = 28.000
-Ms2.MouseButton1Down:connect(function()
+MiningSimulator2.Name = "Mining Simulator 2"
+MiningSimulator2.Parent = MainFrame
+MiningSimulator2.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+MiningSimulator2.Position = UDim2.new(0.0346940979, 0, 0.161290318, 0)
+MiningSimulator2.Size = UDim2.new(0, 258, 0, 37)
+MiningSimulator2.Font = Enum.Font.SourceSans
+MiningSimulator2.Text = "Mining Simulator 2"
+MiningSimulator2.TextColor3 = Color3.fromRGB(255, 255, 255)
+MiningSimulator2.TextSize = 28.000
+MiningSimulator2.MouseButton1Down:connect(function()
 	MainFrame.Visible = false
 	wait(0.4)
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Fixyz1/MS2/main/MS2%20HACKS/.Lua",true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/JustAfkHatch/MS2/main/New-Update!/.Lua",true))()
 end)
 
-UICorner_2.Parent = Ms2
+UICorner_2.Parent = MiningSimulator2
 
 BedWars.Name = "BedWars"
 BedWars.Parent = MainFrame
 BedWars.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
-BedWars.Position = UDim2.new(0.0676195174, 0, 0.330645144, 0)
+BedWars.Position = UDim2.new(0.0354225487, 0, 0.323325872, 0)
 BedWars.Size = UDim2.new(0, 273, 0, 37)
 BedWars.Font = Enum.Font.SourceSans
 BedWars.Text = "BedWars"
-BedWars.TextColor3 = Color3.fromRGB(4, 91, 2)
+BedWars.TextColor3 = Color3.fromRGB(255, 255, 255)
 BedWars.TextSize = 28.000
 BedWars.MouseButton1Down:connect(function()
 	MainFrame.Visible = false
 	wait(0.4)
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Fixyz1/BEDWARS-HACKER/main/Tree/BOOBIES/.Lua",true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/JustAfkHatch/BedWars/main/New-Frame/Update/.Lua",true))()
 end)
 
 UICorner_3.Parent = BedWars
@@ -232,171 +82,148 @@ UICorner_3.Parent = BedWars
 Universal.Name = "Universal"
 Universal.Parent = MainFrame
 Universal.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
-Universal.Position = UDim2.new(0.0676195174, 0, 0.44892472, 0)
+Universal.Position = UDim2.new(0.0354225487, 0, 0.493425936, 0)
 Universal.Size = UDim2.new(0, 273, 0, 37)
 Universal.Font = Enum.Font.SourceSans
 Universal.Text = "Universal / Shooter Games"
-Universal.TextColor3 = Color3.fromRGB(4, 91, 2)
+Universal.TextColor3 = Color3.fromRGB(255, 255, 255)
 Universal.TextSize = 28.000
 Universal.MouseButton1Down:connect(function()
 	MainFrame.Visible = false
 	wait(0.4)
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Fixyz1/A-New-Private-Script/main/Universal%20Script",true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/JustAfkHatch/Universal/main/Script-Hehe/.Lua",true))()
 end)
 
 UICorner_4.Parent = Universal
 
-JailBreak.Name = "JailBreak"
-JailBreak.Parent = MainFrame
-JailBreak.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
-JailBreak.Position = UDim2.new(0.0676195025, 0, 0.720430076, 0)
-JailBreak.Size = UDim2.new(0, 273, 0, 37)
-JailBreak.Font = Enum.Font.SourceSans
-JailBreak.Text = "JailBreak / Soon"
-JailBreak.TextColor3 = Color3.fromRGB(4, 91, 2)
-JailBreak.TextSize = 28.000
+ClickerSimulatorSoon.Name = "Clicker Simulator / Soon"
+ClickerSimulatorSoon.Parent = MainFrame
+ClickerSimulatorSoon.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+ClickerSimulatorSoon.Position = UDim2.new(0.0335285962, 0, 0.825428486, 0)
+ClickerSimulatorSoon.Size = UDim2.new(0, 273, 0, 37)
+ClickerSimulatorSoon.Font = Enum.Font.SourceSans
+ClickerSimulatorSoon.Text = "Clicker Simulator / Soon"
+ClickerSimulatorSoon.TextColor3 = Color3.fromRGB(255, 255, 255)
+ClickerSimulatorSoon.TextSize = 28.000
 
-UICorner_5.Parent = JailBreak
+UICorner_5.Parent = ClickerSimulatorSoon
 
-PSX.Name = "PSX"
-PSX.Parent = MainFrame
-PSX.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
-PSX.Position = UDim2.new(0.0676195174, 0, 0.588709712, 0)
-PSX.Size = UDim2.new(0, 273, 0, 37)
-PSX.Font = Enum.Font.SourceSans
-PSX.Text = "Pet Simulator X / Soon"
-PSX.TextColor3 = Color3.fromRGB(4, 91, 2)
-PSX.TextSize = 28.000
+PetSimulatorX.Name = "Pet Simulator X"
+PetSimulatorX.Parent = MainFrame
+PetSimulatorX.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+PetSimulatorX.Position = UDim2.new(0.0354225487, 0, 0.65838927, 0)
+PetSimulatorX.Size = UDim2.new(0, 273, 0, 37)
+PetSimulatorX.Font = Enum.Font.SourceSans
+PetSimulatorX.Text = "Pet Simulator X"
+PetSimulatorX.TextColor3 = Color3.fromRGB(255, 255, 255)
+PetSimulatorX.TextSize = 28.000
+PetSimulatorX.MouseButton1Down:connect(function()
+	MainFrame.Visible = false
+	wait(0.4)
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/JustAfkHatch/Universal/main/Script-Hehe/.Lua",true))()
+end)
 
-UICorner_6.Parent = PSX
-
-Soon.Name = "Soon"
-Soon.Parent = MainFrame
-Soon.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
-Soon.Position = UDim2.new(0.0580041334, 0, 0.860214949, 0)
-Soon.Size = UDim2.new(0, 273, 0, 37)
-Soon.Font = Enum.Font.SourceSans
-Soon.Text = "Soon"
-Soon.TextColor3 = Color3.fromRGB(4, 91, 2)
-Soon.TextSize = 28.000
-
-UICorner_7.Parent = Soon
+UICorner_6.Parent = PetSimulatorX
 
 Close.Name = "Close"
 Close.Parent = MainFrame
 Close.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
-Close.Position = UDim2.new(0.820824623, 0, 0, 0)
+Close.Position = UDim2.new(0.894688249, 0, 0, 0)
 Close.Size = UDim2.new(0, 55, 0, 34)
 Close.Font = Enum.Font.SourceSans
 Close.Text = "X"
-Close.TextColor3 = Color3.fromRGB(4, 91, 2)
+Close.TextColor3 = Color3.fromRGB(255, 255, 255)
 Close.TextSize = 36.000
 Close.MouseButton1Down:connect(function()
 	MainFrame.Visible = false
 end)
 
-UICorner_8.Parent = Close
+UICorner_7.Parent = Close
 
 Minimize.Name = "Minimize"
 Minimize.Parent = MainFrame
 Minimize.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
-Minimize.Position = UDim2.new(0.644542575, 0, 0, 0)
+Minimize.Position = UDim2.new(0.790375888, 0, 0, 0)
 Minimize.Size = UDim2.new(0, 55, 0, 34)
 Minimize.Font = Enum.Font.SourceSans
 Minimize.Text = "-"
-Minimize.TextColor3 = Color3.fromRGB(4, 91, 2)
+Minimize.TextColor3 = Color3.fromRGB(255, 255, 255)
 Minimize.TextSize = 48.000
 Minimize.MouseButton1Down:connect(function()
-	UITOGGLERFrame.Visible = true
 	MainFrame.Visible = false
+	UITOGGLERFrame.Visible = true
 end)
 
-UICorner_9.Parent = Minimize
+UICorner_8.Parent = Minimize
 
 TextLabel.Parent = MainFrame
 TextLabel.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
-TextLabel.Size = UDim2.new(0, 201, 0, 34)
+TextLabel.Size = UDim2.new(0, 417, 0, 34)
 TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = "Spotify Hub X"
-TextLabel.TextColor3 = Color3.fromRGB(0, 100, 56)
-TextLabel.TextSize = 18.000
+TextLabel.Text = "Dev V4 Lua"
+TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.TextSize = 36.000
 
-UICorner_10.Parent = TextLabel
+UICorner_9.Parent = TextLabel
 
-Start.Name = "Start"
-Start.Parent = ScreenGui
-Start.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
-Start.Position = UDim2.new(0.377035797, 0, 0.306605726, 0)
-Start.Size = UDim2.new(0, 376, 0, 216)
-Start.Visible = true
-Start.Active = true
-
-UICorner_11.Parent = Start
-
-Opensh.Name = "Open sh"
-Opensh.Parent = Start
-Opensh.BackgroundColor3 = Color3.fromRGB(0, 104, 5)
-Opensh.Position = UDim2.new(0.099433735, 0, 0.583333373, 0)
-Opensh.Size = UDim2.new(0, 301, 0, 64)
-Opensh.Font = Enum.Font.SourceSans
-Opensh.Text = "Open Spotify Hub X"
-Opensh.TextColor3 = Color3.fromRGB(0, 0, 0)
-Opensh.TextSize = 28.000
-Opensh.MouseButton1Down:connect(function()
-	Start.Visible = false
+DevV4Private.Name = "Dev V4 Private"
+DevV4Private.Parent = MainFrame
+DevV4Private.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+DevV4Private.Position = UDim2.new(0.578254759, 0, 0.161290318, 0)
+DevV4Private.Size = UDim2.new(0, 205, 0, 37)
+DevV4Private.Font = Enum.Font.SourceSans
+DevV4Private.Text = "Dev V4 Private"
+DevV4Private.TextColor3 = Color3.fromRGB(255, 255, 255)
+DevV4Private.TextSize = 28.000
+DevV4Private.MouseButton1Down:connect(function()
+	MainFrame.Visible = false
 	wait(0.4)
-	MainFrame.Visible = true
+	loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\34\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\74\117\115\116\65\102\107\72\97\116\99\104\47\68\101\118\45\86\52\45\80\114\105\118\97\116\101\47\80\114\105\118\97\116\101\45\72\97\99\107\47\46\76\117\97\34\44\116\114\117\101\41\41\40\41\10")()
 end)
+	
+UICorner_10.Parent = DevV4Private
 
-UICorner_12.Parent = Opensh
+PowerSoftware.Name = "Power Software"
+PowerSoftware.Parent = MainFrame
+PowerSoftware.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+PowerSoftware.Position = UDim2.new(0.578254759, 0, 0.320877284, 0)
+PowerSoftware.Size = UDim2.new(0, 205, 0, 37)
+PowerSoftware.Font = Enum.Font.SourceSans
+PowerSoftware.Text = "Power Software"
+PowerSoftware.TextColor3 = Color3.fromRGB(255, 255, 255)
+PowerSoftware.TextSize = 28.000
+PowerSoftware.MouseButton1Down:connect(function()
+	MainFrame.Visible = false
+	wait(0.4)
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/JustAfkHatch/Power-Software-V2/main/For-Roblox/OldMainScript/.Lua",true))()
+end)
+	
+UICorner_11.Parent = PowerSoftware
 
 Discord.Name = "Discord"
-Discord.Parent = Start
+Discord.Parent = MainFrame
 Discord.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
-Discord.Position = UDim2.new(-0.000772192143, 0, 0, 0)
-Discord.Size = UDim2.new(0, 240, 0, 52)
+Discord.Position = UDim2.new(0.580148757, 0, 0, 0)
+Discord.Size = UDim2.new(0, 111, 0, 27)
 Discord.Font = Enum.Font.SourceSans
 Discord.Text = "Discord Server"
-Discord.TextColor3 = Color3.fromRGB(0, 104, 5)
-Discord.TextSize = 28.000
+Discord.TextColor3 = Color3.fromRGB(255, 255, 255)
+Discord.TextSize = 16.000
 Discord.MouseButton1Down:connect(function()
-	setclipboard("https://discord.gg/9PKn8g8W")
+	setclipboard("https://discord.gg/4NrZVSpX")
 end)
 
-UICorner_13.Parent = Discord
-
-TextLabel_2.Parent = Start
-TextLabel_2.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
-TextLabel_2.Position = UDim2.new(0.635638297, 0, 0.00925925933, 0)
-TextLabel_2.Size = UDim2.new(0, 137, 0, 50)
-TextLabel_2.Font = Enum.Font.SourceSans
-TextLabel_2.Text = "V1.0.1"
-TextLabel_2.TextColor3 = Color3.fromRGB(0, 104, 5)
-TextLabel_2.TextSize = 22.000
-
-UICorner_14.Parent = TextLabel_2
-
-TextLabel_3.Parent = Start
-TextLabel_3.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
-TextLabel_3.Position = UDim2.new(0.135638297, 0, 0.402777791, 0)
-TextLabel_3.Size = UDim2.new(0, 273, 0, 39)
-TextLabel_3.Font = Enum.Font.SourceSans
-TextLabel_3.Text = "Reminder:These Scripts Are Safe & Unbannable Unless Trey're Patched!!"
-TextLabel_3.TextColor3 = Color3.fromRGB(0, 104, 5)
-TextLabel_3.TextSize = 14.000
-
-UICorner_15.Parent = TextLabel_3
+UICorner_12.Parent = Discord
 
 UITOGGLERFrame.Name = "UI TOGGLER Frame"
 UITOGGLERFrame.Parent = ScreenGui
 UITOGGLERFrame.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
-UITOGGLERFrame.Position = UDim2.new(0.504071712, 0, 0.0417827293, 0)
+UITOGGLERFrame.Position = UDim2.new(0.467426747, 0, -0.0236768797, 0)
 UITOGGLERFrame.Size = UDim2.new(0, 80, 0, 53)
-UITOGGLERFrame.Visible = false
 UITOGGLERFrame.Active = true
 UITOGGLERFrame.Draggable = true
 
-UICorner_85.Parent = UITOGGLERFrame
+UICorner_13.Parent = UITOGGLERFrame
 
 OpensTheFrame.Name = "Opens The Frame"
 OpensTheFrame.Parent = UITOGGLERFrame
@@ -404,12 +231,12 @@ OpensTheFrame.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
 OpensTheFrame.Position = UDim2.new(-0.00416636467, 0, 0, 0)
 OpensTheFrame.Size = UDim2.new(0, 80, 0, 53)
 OpensTheFrame.Font = Enum.Font.SourceSans
-OpensTheFrame.Text = "Toggle ME"
-OpensTheFrame.TextColor3 = Color3.fromRGB(0, 100, 55)
+OpensTheFrame.Text = "Toggle"
+OpensTheFrame.TextColor3 = Color3.fromRGB(255, 255, 255)
 OpensTheFrame.TextSize = 14.000
-OpensTheFrame.MouseButton1Down:Connect(function()
-UITOGGLERFrame.Visible = false
+OpensTheFrame.MouseButton1Down:connect(function()
+	UITOGGLERFrame.Visible = false
 	MainFrame.Visible = true
 end)
 
-UICorner_86.Parent = OpensTheFrame
+UICorner_14.Parent = OpensTheFrame
