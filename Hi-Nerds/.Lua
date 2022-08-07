@@ -120,7 +120,7 @@ PetSimulatorX.TextSize = 28.000
 PetSimulatorX.MouseButton1Down:connect(function()
 	MainFrame.Visible = false
 	wait(0.4)
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/JustAfkHatch/Universal/main/Script-Hehe/.Lua",true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/JustAfkHatch/Pet-Sim-X/Roblox_Script/.Lua",true))()
 end)
 
 UICorner_6.Parent = PetSimulatorX
