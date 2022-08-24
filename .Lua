@@ -1,6 +1,6 @@
 local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/JayGitCuh/Defiant/main/uilib.lua'))()
 getgenv().library.title = "Dev V1 | Arsenal"
-getgenv().library.foldername = "defiant\\arsenal\\config"
+getgenv().library.foldername = "Dev V1\\arsenal\\config"
 
 local UIS = game:GetService("UserInputService")
 local dwRunservice = game:GetService("RunService")
